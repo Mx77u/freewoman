@@ -12,7 +12,7 @@ def main():
     banner()
     input("Press Enter to continue")
     clear()
-    inputString = input("Input your Names you want to check:\n")
+    inputString = input("Input your Names you want to check, seperated by a space:\n")
     inputString = inputString.split()
     count = 0
     for name in inputString:
@@ -37,7 +37,7 @@ def httpsRequest(name, count ,free):
     print(name + " Statuscode: " + str(r.status_code))
     if r.status_code == 204:
         if count == 0:
-            free.remove("no names found")
+            free.remove("no free names found")
         free.append(name)
         count += 1
     return free, count;

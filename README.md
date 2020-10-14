@@ -5,7 +5,7 @@ The API used in this script, is mojang's api.
 ## Usage
 1. Download the .zip file from my Github Page.
 
-2. Unzip the .zip File
+2. Unzip the .zip file
 
 3. Open The freewoman Directory and navigate to the file freewoman.exe and doubleclick the file
 

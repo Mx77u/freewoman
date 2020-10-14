@@ -7,4 +7,7 @@ The API used in this script, is mojang's api.
 
 2. Unzip the .zip File
 
-3. Open The freewoman Directory and navigate to the file freewoman.exe and doubleclick the file.
+3. Open The freewoman Directory and navigate to the file freewoman.exe and doubleclick the file
+
+## Requirements
+The Software works with Windows 7 or newer.

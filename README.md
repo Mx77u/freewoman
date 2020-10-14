@@ -1,4 +1,4 @@
-# freewoman
+# Freewoman
 This Software was designed for fast and effiecent minecraft name searches. 
 The API used in this script, is mojang's api.
 

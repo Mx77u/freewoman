@@ -1,5 +1,5 @@
 # Freewoman
-## The fast and easy to use Minecraft name searcher tool.
+## The easy to use Minecraft name searcher tool.
 This Software was designed for fast and effiecent minecraft name searches. 
 The API used in this script, is mojang's api.
 
